@@ -9,12 +9,14 @@ ________________________________________________________________________________
 ___________________________Operation System_______________________
                            
 1. System calls for process management:
+
         Fork(): Create a child process
         Wait(): Wait for process to change 
         Sleep : Delay for a specified amount of time
         Pipe(): Create pipe
         
 2. System calls related to shared memory and semaphores:
+
         shmget(): Allocates a system V shared memory segment
         shmat(), shmdt(): System V shared memory operations
         shmctl(): System V shared memory control
@@ -25,8 +27,11 @@ ___________________________Operation System_______________________
 ___________________________Networking__________________________
                            
 Socket Programming
-        1. TCP Client and Server
+
+        1. TCP Client and Server 
+        
         2. UDP Client and Server
+        
 ______________TCP Client__________ 
                      
         Socket()
