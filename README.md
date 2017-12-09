@@ -1,12 +1,10 @@
-                                            
-                                            Operating System And Networking Programming
-                                            
+__Operating System And Network Programming__
 ________________________________________________________________________________________
 
 OS and Networking Programming: Parent child communication, Producer-Consumer problem, Fork, TCP and UDP client-server communication     
 _________________________________________________________________________________________ 
 
-___________________________Operation System_______________________
+__________________________Operation System__________________________
                            
 1. System calls for process management:
 
@@ -24,7 +22,7 @@ ___________________________Operation System_______________________
         semop(), semtimedop(): System V semaphore operations
         semctl(): System V semaphore control operations
         
-___________________________Networking__________________________
+__________________________Networking__________________________
                            
 Socket Programming
 
@@ -32,7 +30,7 @@ Socket Programming
         
         2. UDP Client and Server
         
-______________TCP Client__________ 
+__________________________TCP Client__________________________
                      
         Socket()
         Connect()
@@ -40,7 +38,7 @@ ______________TCP Client__________
         Read()
         Close()
         
-_______________TCP Server__________ 
+__________________________TCP Server__________________________
                         
          Socket()
          Bind()
