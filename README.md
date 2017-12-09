@@ -1,14 +1,13 @@
                                             
                                             Operating System And Networking Programming
                                             
-______________________________________--------------------------------------------------------________________________________________________
+________________________________________________________________________________________
 
-OS and Networking Programming: Parent child communication, Producer-Consumer problem, Fork, TCP and UDP client-server communication
-     
-______________________________________--------------------------------------------------------________________________________________________
+OS and Networking Programming: Parent child communication, Producer-Consumer problem, Fork, TCP and UDP client-server communication     
+_________________________________________________________________________________________ 
 
 ___________________________Operation System_______________________
-                           ---------------- 
+                           
 1. System calls for process management:
         Fork(): Create a child process
         Wait(): Wait for process to change 
@@ -24,20 +23,20 @@ ___________________________Operation System_______________________
         semctl(): System V semaphore control operations
         
 ___________________________Networking__________________________
-                           ----------
+                           
 Socket Programming
         1. TCP Client and Server
         2. UDP Client and Server
-        ______________TCP Client__________ 
-                      ----------
+______________TCP Client__________ 
+                     
         Socket()
         Connect()
         Write()
         Read()
         Close()
         
-         _______________TCP Server__________ 
-                        ----------
+_______________TCP Server__________ 
+                        
          Socket()
          Bind()
          Listen()
@@ -47,7 +46,7 @@ Socket Programming
          Read()
          Close()
          
-______________________________________--------------------------------------------------------________________________________________________       
+______________________________________________________________________________________________       
            
            
            
